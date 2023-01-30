@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;006BlockingOnQueues/005QueuesBasics.ioc&apos; to &apos;006BlockingOnQueues.ioc&apos;" description="Rename resource &apos;005QueuesBasics.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="005QueuesBasics.ioc" name="006BlockingOnQueues.ioc" stamp="1673438749349" updateReferences="true"/>
+</session>

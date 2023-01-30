@@ -1,0 +1,10 @@
+13:54:22 **** Incremental Build of configuration Debug for project 011ThreadFlag ****
+make -j4 all 
+arm-none-eabi-size   011ThreadFlag.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20968	    124	  20620	  41712	   a2f0	011ThreadFlag.elf
+Finished building: default.size.stdout
+ 
+
+13:54:22 Build Finished. 0 errors, 0 warnings. (took 377ms)
+

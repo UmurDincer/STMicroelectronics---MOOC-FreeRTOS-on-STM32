@@ -1,0 +1,10 @@
+11:00:35 **** Incremental Build of configuration Debug for project 010Event_Flags ****
+make -j4 all 
+arm-none-eabi-size   010Event_Flags.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21540	    124	   9268	  30932	   78d4	010Event_Flags.elf
+Finished building: default.size.stdout
+ 
+
+11:00:35 Build Finished. 0 errors, 0 warnings. (took 398ms)
+
